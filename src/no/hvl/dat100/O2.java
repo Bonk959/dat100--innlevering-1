@@ -1,7 +1,8 @@
 package no.hvl.dat100;
 
-import static java.lang.Integer.*;
-import static javax.swing.JOptionPane.*;
+import static java.lang.Integer.parseInt;
+import static javax.swing.JOptionPane.showInputDialog;
+import static javax.swing.JOptionPane.showMessageDialog;
 
 public class O2 {
 
